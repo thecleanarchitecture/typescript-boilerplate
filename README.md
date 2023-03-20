@@ -8,7 +8,7 @@ Clean architectured, Infrastructure agnostic and Domain Driven designed Typescri
 | **Code Coverage**               | [![codecov](https://codecov.io/gh/thecleanarchitecture/typescript-boilerplate/branch/master/graph/badge.svg?token=FIQF8KPQ64)](https://codecov.io/gh/thecleanarchitecture/typescript-boilerplate) |
 | **Security scanner**     | ![Known Vulnerabilities](https://snyk.io/test/github/thecleanarchitecture/typescript-boilerplateg/badge.svg)                                         |
 
-![cov](https://codecov.io/gh/thecleanarchitecture/typescript-boilerplate/branch/master/graphs/tree.svg?token=FIQF8KPQ64)
+ [![codecov](https://codecov.io/gh/thecleanarchitecture/typescript-boilerplate/branch/master/graphs/tree.svg?token=FIQF8KPQ64)](https://codecov.io/gh/thecleanarchitecture/typescript-boilerplate)
 
 ## Architecture overview
 
