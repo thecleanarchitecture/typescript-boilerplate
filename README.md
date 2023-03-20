@@ -4,11 +4,11 @@ Clean architectured, Infrastructure agnostic and Domain Driven designed Typescri
 
 | Status                                  |                                                               |
 | ------------------------------------- | ----------------------------------------------------------------------- |
-| **Test Suites**                          | [![CircleCI](https://dl.circleci.com/status-badge/img/gh/thecleanarchitecture/typescript-boilerplateg/tree/main.svg?style=svg)](https://dl.circleci.com/status-badge/redirect/gh/thecleanarchitecture/typescript-boilerplateg/tree/main) |
-| **Code Coverage**               | [![codecov](https://codecov.io/gh/thecleanarchitecture/typescript-boilerplateg/branch/main/graph/badge.svg?token=5118POS3ED)](https://codecov.io/gh/thecleanarchitecture/typescript-boilerplateg) |
+| **Test Suites**                          | [![CircleCI](https://dl.circleci.com/status-badge/img/gh/thecleanarchitecture/typescript-boilerplate/tree/master.svg?style=svg)](https://dl.circleci.com/status-badge/redirect/gh/thecleanarchitecture/typescript-boilerplate/tree/master) |
+| **Code Coverage**               | [![codecov](https://codecov.io/gh/thecleanarchitecture/typescript-boilerplate/branch/master/graph/badge.svg?token=FIQF8KPQ64)](https://codecov.io/gh/thecleanarchitecture/typescript-boilerplate) |
 | **Security scanner**     | ![Known Vulnerabilities](https://snyk.io/test/github/thecleanarchitecture/typescript-boilerplateg/badge.svg)                                         |
 
-![cov](https://codecov.io/gh/thecleanarchitecture/typescript-boilerplateg/branch/main/graphs/sunburst.svg?token=5118POS3ED)
+![cov](https://codecov.io/gh/thecleanarchitecture/typescript-boilerplate/branch/master/graphs/tree.svg?token=FIQF8KPQ64)
 
 ## Architecture overview
 
