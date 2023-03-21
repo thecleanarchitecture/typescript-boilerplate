@@ -46,7 +46,7 @@
     "typescript-eslint": "0.0.1-alpha.0"
   },
   "dependencies": {
-    "prince": "^1.9.11",
+    "dotenv": "^16.0.3",
     "uuid": "^9.0.0"
   }
 }
